@@ -1,0 +1,56 @@
+.outer {
+   width:100% ;
+    
+}
+.outer img {
+     width: 100%;
+     height: auto;
+}
+ .separator-primary {
+               height: 100px;
+
+ }
+ .title{
+     font-weight: bold;
+
+     
+ }
+ .navbar.navbar-expand-lg.navbar-dark {
+     padding-left: 200px;
+     padding-right: 200px;
+     background-color: #272e56;
+ }
+ .container-fluid{
+     background-color: #272e56;
+     color: white;
+     height: 50px;
+     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 200px;
+ }
+ 
+ .nav-link.dropdown-toggle {
+     color: white;
+     font-size: 0.6142em;
+     
+     text-transform: uppercase;
+     
+ }
+ .nav-item.dropdown{
+     list-style: none;
+     font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+     
+ }
+ .navbar-brand.menu{
+    font-size: 0.6142em;
+    text-transform: uppercase;
+ }
+ body{
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+ }
+ .wrapper{
+     padding: 0 200px;
+ }
+
+ 
